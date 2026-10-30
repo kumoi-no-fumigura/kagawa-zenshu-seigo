@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kagawa-zenshu-seigo",
  "yomi": "かがわおうぜんしゅうせいご",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "正誤表",
+  "era": "明治期",
+  "author": "編者 佐佐木信綱（井上通泰の書状を引く）",
+  "desc": "香川景樹の歌文集の解題と本文に対する正誤。景樹が養家を離縁された理由について、井上通泰の書状を引いて、歌道上の意見の違いによるという説を疑う。"
+ },
  "editions": [
   {
    "pid": "993383",
